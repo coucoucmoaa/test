@@ -16,7 +16,7 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
 env:
-  MIRROR_URL: "git@github.com:EpitechPromo2028/B-DOP-200-STG-2-1-chocolatine-johan.wendling.git"
+  MIRROR_URL: "git@github.com:EpitechPromo2028/B-PDG-300-STG-3-1-PDGD01-johan.wendling.git"
   # EXECUTABLES: "test"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
